@@ -1,2 +1,5 @@
 # hello-world
-Hello world sample project
+
+Hi Humans! 
+
+I like tacos....Lots, and lots of tacos! 
